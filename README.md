@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ehsanul Ahmmed
 #### Web developer
-![Web developer](https://media-exp1.licdn.com/dms/image/C5603AQGMnlQCa7vmxQ/profile-displayphoto-shrink_400_400/0/1637690382295?e=1644451200&v=beta&t=b7g2NJ6Djo3x0u3IwgBQ8MTKZXXvo_8pcuvIhwbC3ns)
+![Web developer](https://media-exp1.licdn.com/dms/image/C5616AQEFlQPZ5tkxMA/profile-displaybackgroundimage-shrink_350_1400/0/1638698511479?e=1644451200&v=beta&t=L7ISGiEtiGGwh0dyzd7t9dNnqOqkPYcWsFcbH7cJyKI)
 
 I am Ehsanul Ahmmed. I am an undergraduate student of AIUB. I am an enthusiastic software developer specialized in Web application. I have skills in web designing. I have some experiences in Back-end development too. Again, I have gained some skills in graphics design also. I am some experiences in Python too
 
