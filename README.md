@@ -4,8 +4,10 @@
 # Hi there 👋, I'm **Ehsanul Ahmmed**
 ### 👨‍💻 Software Developer
 
-<!-- Optional banner image -->
-<img src="./cover_photo.jpg" alt="Banner" width="100%" />
+<!-- Replace cover photo with an animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+</p>
 
 <!-- Waving hand + avatar -->
 <br/>
@@ -17,12 +19,6 @@
 
 <!-- Typing animation (smooth pause between lines) -->
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1000&color=22F7C8&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing Animation">
-
-<!-- Cartoon coder animation (remote GIF). 
-     To host locally: download the GIF as ./coder.gif and replace the src below. -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Cartoon coder at device" />
-</p>
 
 </div>
 
@@ -95,7 +91,7 @@ I’ve studied from **AIUB 🎓** and love building **modern web apps** that are
 <p align="left">
   <a href="https://github.com/ehsan-0801"><img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/ehsanul-ahmmed-a15841198/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/ehsan.sharon/"><img src="https://skillicons.dev/icons?i=facebook" height="36" alt="Facebook"></a>
+  <a href="https://www.facebook.com/ehsan.sharon/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="36" alt="Facebook"></a>
   <a href="https://www.instagram.com/ehsan.sharon/"><img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram"></a>
   <a href="https://twitter.com/ehsanul_ahmmed"><img src="https://skillicons.dev/icons?i=twitter" height="36" alt="Twitter"></a>
   <a href="https://codepen.io/settings/profile"><img src="https://skillicons.dev/icons?i=codepen" height="36" alt="CodePen"></a>
