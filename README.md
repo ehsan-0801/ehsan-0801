@@ -13,15 +13,24 @@
 <br/>
 
 <!-- Replace with your own GIF or avatar file -->
-<img src="./animated_avatar.gif" width="150" alt="Animated Avatar"><br/>
+<img src="./animated_avatar.gif" width="150" alt="Animated Avatar" style="border-radius:50%;border:4px solid #22F7C8;"><br/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=800&color=22F7C8&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Enthusiast;Open+Source+Contributor;Tech+Explorer;Lifelong+Learner" alt="Typing Animation">
+
+<!-- Cartoon coder animation (remote GIF). 
+     To host locally: download the GIF as ./coder.gif and replace the src below. -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Cartoon coder at device" />
+</p>
+
 </div>
 
 ---
 
 ## 💡 About Me
+<img align="right" src="https://github.com/ehsan-0801.png" width="120" alt="Profile Photo" style="border-radius:50%;border:3px solid #22F7C8;"/>
+
 👋 Hi, I’m **Ehsanul Ahmmed** – a passionate **Software Developer** from **Bangladesh 🇧🇩**.  
 I’ve studied from **AIUB 🎓** and love building **modern web apps** that are **fast**, **scalable**, and **delightful**.
 
@@ -95,7 +104,6 @@ I’ve studied from **AIUB 🎓** and love building **modern web apps** that are
 ---
 
 ## 🐍 Contribution Snake
-<!-- Fun contribution graph animation -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
@@ -103,7 +111,4 @@ I’ve studied from **AIUB 🎓** and love building **modern web apps** that are
 ---
 
 ### ⚙️ Quick Tips
-- Replace `./animated_avatar.gif` with your own animated GIF (cartoon/code-themed or a glowing avatar of your real photo).  
-- Keep `cover_photo.jpg` in the repo root or change the path.  
-- All badges/icons are external and auto-render—no extra setup needed.  
-
+- To **self-host** the coder animation, download it and reference `./coder.
