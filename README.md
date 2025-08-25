@@ -15,8 +15,8 @@
 <!-- Replace with your own GIF or avatar file -->
 <img src="./animated_avatar.gif" width="150" alt="Animated Avatar" style="border-radius:50%;border:4px solid #22F7C8;"><br/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=800&color=22F7C8&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Enthusiast;Open+Source+Contributor;Tech+Explorer;Lifelong+Learner" alt="Typing Animation">
+<!-- Typing animation (smooth pause between lines) -->
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1000&color=22F7C8&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing Animation">
 
 <!-- Cartoon coder animation (remote GIF). 
      To host locally: download the GIF as ./coder.gif and replace the src below. -->
@@ -107,8 +107,3 @@ I’ve studied from **AIUB 🎓** and love building **modern web apps** that are
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
-
----
-
-### ⚙️ Quick Tips
-- To **self-host** the coder animation, download it and reference `./coder.
