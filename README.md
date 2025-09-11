@@ -4,10 +4,7 @@
 # Hi there 👋, I'm **Ehsanul Ahmmed**
 ### 👨‍💻 Software Developer
 
-<!-- Replace cover photo with an animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
-</p>
+
 
 <!-- Waving hand + avatar -->
 <br/>
@@ -102,4 +99,9 @@ I’ve studied from **AIUB 🎓** and love building **modern web apps** that are
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<!-- Replace cover photo with an animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
 </p>
